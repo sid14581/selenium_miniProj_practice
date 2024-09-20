@@ -1,0 +1,14 @@
+2024-09-20 19:52:49,158 :INFO : test_shoppingCart :getting all the card titles
+2024-09-20 19:52:49,159 :INFO : test_shoppingCart :iphone X
+2024-09-20 19:52:49,315 :INFO : test_shoppingCart :Samsung Note 8
+2024-09-20 19:52:49,385 :INFO : test_shoppingCart :Blackberry
+2024-09-20 19:52:49,514 :INFO : test_shoppingCart :clicking checkout
+2024-09-20 19:52:49,594 :INFO : test_shoppingCart :going to confirm page
+2024-09-20 19:52:54,801 :INFO : test_shoppingCart :confirm page
+2024-09-20 20:03:56,963 :INFO : test_shoppingCart :getting all the card titles
+2024-09-20 20:03:56,963 :INFO : test_shoppingCart :iphone X
+2024-09-20 20:03:57,124 :INFO : test_shoppingCart :Samsung Note 8
+2024-09-20 20:03:57,195 :INFO : test_shoppingCart :Blackberry
+2024-09-20 20:03:57,317 :INFO : test_shoppingCart :clicking checkout
+2024-09-20 20:03:57,384 :INFO : test_shoppingCart :going to confirm page
+2024-09-20 20:04:02,597 :INFO : test_shoppingCart :confirm page
